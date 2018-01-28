@@ -48,6 +48,6 @@ feature implementations.
    Memory Consumption: 9 MB | Execution time: 21 seconds
    ````
 
-## Licence
+## License
 
-Licenced under Apache 2.0
+Licensed under Apache 2.0
