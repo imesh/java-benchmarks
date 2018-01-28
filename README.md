@@ -3,6 +3,12 @@
 This repository contains benchmark tests for comparing performance sensitive Java 
 feature implementations.
 
+## Benchmarks
+
+- Reading large files
+
+  Main class: org.imesh.java.benchmark.file.FileReaderBenchmarkMain
+
 ## Getting Started
 
 1. Clone this repository:
